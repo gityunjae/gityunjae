@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### 📚 B.S. Ewha Womans University (2016.03 ~)
-#### (hopefully M.S. in somewhere)
-### 🥕 I'm interested in Natural Language Processing, Question Answering and Dialogue System.
+#### (hopefully M.S. somewhere)
+#### 🌱 I’m currently learning at SNU CCLab
+#### 🥕 I'm interested in Natural Language Processing, Question Answering and Dialogue System.
 <!--
 **gityunjae/gityunjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
