@@ -3,9 +3,9 @@
 #### (hopefully M.S. somewhere)
 #### 🥕 I'm interested in Natural Language Processing, Question Answering and Dialogue System.
 
-#### Come visit my blog below
-##### <a href="https://blog.naver.com/yunjae2005">https://blog.naver.com/yunjae2005</a><br>
-##### <a href="https://gityunjae.github.io/">https://gityunjae.github.io/</a>
+#### Come visit my blog below 👇
+<a href="https://blog.naver.com/yunjae2005">https://blog.naver.com/yunjae2005</a><br>
+<a href="https://gityunjae.github.io/">https://gityunjae.github.io/</a>
 
 <!--
 **gityunjae/gityunjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
