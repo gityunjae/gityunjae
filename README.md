@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 📚 B.S. Ewha Womans University (2016.03 ~)
 #### (hopefully M.S. somewhere)
-#### 🥕 I'm interested in Natural Language Processing, Question Answering and Dialogue System.
+#### 🥕 I'm interested in Natural Language Processing, Question Answering, Open-domain chatbot and Dialogue System.
 
 #### Come visit my blog below 👇
 <a href="https://blog.naver.com/yunjae2005">https://blog.naver.com/yunjae2005</a><br>
