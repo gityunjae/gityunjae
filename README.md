@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 📚 B.S. Ewha Womans University (2016.03 ~)
+### 📚 B.S. Ewha Womans University (2016.03 ~ 2021.02)
 #### (hopefully M.S. somewhere)
 #### 🥕 I'm interested in Natural Language Processing, Question Answering, Open-domain chatbot and Dialogue System.
 
