@@ -4,7 +4,6 @@
 #### 🥕 I'm interested in Natural Language Processing, Question Answering, Open-domain chatbot and Dialogue System.
 
 #### Come visit my blog below 👇
-<a href="https://blog.naver.com/yunjae2005">https://blog.naver.com/yunjae2005</a><br>
 <a href="https://gityunjae.github.io/">https://gityunjae.github.io/</a>
 
 <!--
