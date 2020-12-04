@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 📚 B.S. Ewha Womans University (2016.03 ~ 2021.02)
-#### (hopefully M.S. somewhere)
+### 📚 M.S. Seoul National University (2021.03 ~ ) 
 #### 🥕 I'm interested in Natural Language Processing, Question Answering, Open-domain chatbot and Dialogue System.
 
 #### Come visit my blog below 👇
