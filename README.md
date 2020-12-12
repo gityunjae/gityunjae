@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 📚 B.S. Ewha Womans University College of Engineering (2016.03 ~ 2021.02)<br>📚 M.S. SNU Graduate School of Convergence Science and Technology (2021.03 ~ )
 
-### 🌱 I'm a member of NLP paper reading club, [jiphyunjeon](https://github.com/jiphyeonjeon/nlp-review) 
+### 🌱 I'm a member of NLP paper reading club, [jiphyeonjeon](https://github.com/jiphyeonjeon/nlp-review) 
 
 #### 🥕 I'm interested in Natural Language Processing, Question Answering, Open-domain chatbot and Dialogue System.
 
