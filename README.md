@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 📚 B.S. Ewha Womans University (2016.03 ~ 2021.02)
+### 📚 B.S. Ewha Womans University College of Engineering (2016.03 ~ 2021.02)
+### 📚 M.S. SNU Graduate School of Convergence Science and Technology (2021.03 ~ )
 #### 🥕 I'm interested in Natural Language Processing, Question Answering, Open-domain chatbot and Dialogue System.
 
 #### Come visit my blog below 👇
