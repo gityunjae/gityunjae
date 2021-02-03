@@ -3,7 +3,7 @@
 
 ### 🌱 I'm a member of NLP paper reading club, [jiphyeonjeon](https://github.com/jiphyeonjeon/nlp-review) 
 
-#### 🥕 I'm interested in Natural Language Processing, Question Answering, Open-domain chatbot and Dialogue System.
+#### 🥕 I'm interested in Natural Language Processing, especially Open-domain Question Answering.
 
 #### Come visit my blog below 👇
 <a href="https://gityunjae.github.io/">https://gityunjae.github.io/</a>
