@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 📚 B.S. Ewha Womans University College of Engineering (2016.03 ~ 2021.02)<br>📚 M.S. SNU GSCST  (2021.03 ~ )
+### 📚 B.S. Ewha Womans University College of Engineering (2016.03 ~ 2021.02)<br>📚 M.S. SNU GSCST CCLab (2021.03 ~ )
 
 ### 🌱 I'm a member of NLP paper reading club, [jiphyeonjeon](https://github.com/jiphyeonjeon/nlp-review) 
 
