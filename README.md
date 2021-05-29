@@ -5,8 +5,6 @@
 
 ### 🥕 I'm interested in Natural Language Processing, especially Open-domain Question Answering.
 
-#### Come visit my blog below 👇
-<a href="https://gityunjae.github.io/">https://gityunjae.github.io/</a>
 
 <!--
 **gityunjae/gityunjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
